@@ -1,0 +1,16 @@
+*.pbix
+*.xlsx
+*.xls
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.env
+.env*
+credentials*
+secrets*
+private/
+raw-data/
+original-files/
+__pycache__/
+
